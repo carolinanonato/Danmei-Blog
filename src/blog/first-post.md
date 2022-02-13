@@ -1,5 +1,6 @@
 ---
 title: Mo Dao Zu Shi
+featuredImage: /img/galaxy.jpeg
 ---
 
 
