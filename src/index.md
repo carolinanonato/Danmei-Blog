@@ -7,7 +7,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ac imperdiet 
 
 Sed feugiat nulla dolor, sed facilisis nisl egestas non. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed vel velit leo. Mauris fermentum orci id ante sodales tempor. Aliquam eget risus ut nunc pellentesque tincidunt. Vestibulum elementum viverra tincidunt. Integer eu ultrices quam. In semper lorem id quam euismod consequat. Vestibulum at risus vitae nunc dignissim pharetra. Nulla id metus molestie, iaculis nibh sit amet, cursus nulla.
 
-<ul>
+<ul class="list">
     {% for post in collections.posts %}
 <li>
 <a href="{{ post.url }}">
