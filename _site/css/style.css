@@ -81,3 +81,8 @@ a {
 .post4-img {
     background: url('https://wiki.d-addicts.com/images/thumb/d/df/The_Scum_Villain%27s_Self-Saving_System.jpeg/450px-The_Scum_Villain%27s_Self-Saving_System.jpeg');    
 }
+
+.return {
+    font-size: 30px;
+    border: none;
+}
