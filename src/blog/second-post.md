@@ -2,6 +2,12 @@
 title: Tian Guan Ci Fu
 ---
 
-Aliquam ipsum tortor, iaculis tristique tincidunt eget, vulputate sed eros. Nullam dictum, orci nec molestie cursus, nisl mi suscipit quam, a pharetra eros dolor vitae dui. Donec fermentum purus magna, ac blandit diam fermentum non. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Maecenas erat nibh, posuere quis aliquet et, volutpat vitae mi. Nulla vitae lacus sodales, dignissim diam sodales, imperdiet urna. Fusce enim elit, tristique at convallis in, interdum non velit. Mauris nec lectus euismod, vestibulum ligula sed, finibus odio. Sed rutrum mollis aliquet. Maecenas sed enim eget turpis vestibulum cursus in ut magna. Maecenas hendrerit ex non cursus tincidunt. Nulla urna dolor, venenatis quis ultricies nec, consectetur a velit. Aliquam vel faucibus turpis, quis convallis erat.
+
+The ultimate love story. A fantasy novel about a fallen god and his most devoted worshipper (who is a ghost king) during 800 years. Written by the only and one Mo Xiang Tong Xiu. 
+
+Honestly Tiān Guān Cì Fú] (TGCF) is probably the best thing that happened to me in 2020 and I was in an actual crisis then I finished its 2050 pages. The story follows many characters, but the lead is Zie Lian, the Crown Prince of Xian Le kingdom. After ascending to the Heavens for the third time he now has a task to investigate some mysterious deaths of young brides.  
+
+“_To me, the you in your greatest glory is you, the you that has fallen from grace is also you, the most important thing is you, not what kind of you._”
+
 
 <div class="post2-img"></div>

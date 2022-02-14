@@ -1,11 +1,11 @@
 ---
-title: Danmei Blog
+title: Danmei Reviews
 layout: "index.njk"
 ---
 
-<div class="info">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ac imperdiet magna. Nullam id dictum neque, in sollicitudin justo. Nam egestas eleifend eros, nec laoreet ipsum vehicula ac. Donec lectus augue, suscipit quis mattis at, pharetra at tortor. Aliquam luctus accumsan lectus, non faucibus dolor imperdiet sed. Praesent feugiat ultricies turpis ut malesuada. Ut gravida tellus et mi rhoncus, eu lobortis lorem ultrices.
+<div class="info">My name is Carolina and this is my blog with danmei-related media reviews. If you’re new here you might be thinking “What does that word even mean?” Danmei (in Chinese: 耽美, translating to 'indulging beauty') is a genre of any type of media which features romantic relationship between male characters. In recent years danmei achieved widespread popularity, with web novels being adapted to donghuas, manhwas and tv shows, like The Untamed and Guardian. 
 
-Sed feugiat nulla dolor, sed facilisis nisl egestas non. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed vel velit leo. Mauris fermentum orci id ante sodales tempor. Aliquam eget risus ut nunc pellentesque tincidunt. Vestibulum elementum viverra tincidunt. Integer eu ultrices quam. In semper lorem id quam euismod consequat. Vestibulum at risus vitae nunc dignissim pharetra. Nulla id metus molestie, iaculis nibh sit amet, cursus nulla.</div>
+I’m an avid reader who, despite the novels having more than 2k pages each, try to read at least one or two per month. If I like it enough, I’ll definitely watch the donghua, try to follow the beautiful illustrations in manhwas and keep hoping for tv adaptations, even knowing China's censorship will take a big chunk of the original story. I hope my reviews convey some of this amazing and exciting world! </div>
 
 
 <ul class="list">

@@ -1,7 +1,12 @@
 ---
-title: Chuan Shu Zi Jiu Zhi Nan
+title: The Scum Villain's Self-Saving System
 ---
 
-Aliquam ipsum tortor, iaculis tristique tincidunt eget, vulputate sed eros. Nullam dictum, orci nec molestie cursus, nisl mi suscipit quam, a pharetra eros dolor vitae dui. Donec fermentum purus magna, ac blandit diam fermentum non. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Maecenas erat nibh, posuere quis aliquet et, volutpat vitae mi. Nulla vitae lacus sodales, dignissim diam sodales, imperdiet urna. Fusce enim elit, tristique at convallis in, interdum non velit. Mauris nec lectus euismod, vestibulum ligula sed, finibus odio. Sed rutrum mollis aliquet. Maecenas sed enim eget turpis vestibulum cursus in ut magna. Maecenas hendrerit ex non cursus tincidunt. Nulla urna dolor, venenatis quis ultricies nec, consectetur a velit. Aliquam vel faucibus turpis, quis convallis erat.
+Never before have I loved something so trashy so much.  The Scum Villain's Self-Saving System or SVSS, for short, it’s the funniest danmei written my MXTX. 
+
+Shen Yuan is finishing reading a book named Proud Immortal Demon Way and criticizing the choices that leads the protagonist to death. He suddenly suffers an accident and ends up reborning into the book in the body  of Shen Qingqiu—the beautiful but cruel teacher to a young Luo Binghe, a half demon and male lead.  Luo Binghe was abused to the point of no return. And when he found out that he was half demon, he embraced it and went into rampage, killing innocent life and at the same time creating a harem. So now Shen Yuan (or Shen Qingqiu) was given a mission to not let that happen. 
+
+_“This time, no matter where you want to go, this master will accompany you.”_ 
+
 
 <div class="post4-img"></div>
